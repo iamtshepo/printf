@@ -18,4 +18,5 @@
 ### 14.	Print, in the form of publications, is the most potent weapon of our party. Handle the following custom conversion specifier.
 ### 15.	The deluge of printed material has transformed reading into a hurried process rather than a leisurely enjoyment. Handle this custom conversion specifier.
 ### 16.	For all the options mentioned above, they seamlessly integrate and function cohesively together.
+## -------------END of DOCUMENT---------------
 
