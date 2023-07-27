@@ -1,6 +1,6 @@
 #include "main.h"
 /************ PRINT CHARACTER *************/
-/**
+/***
  * print_char - Prints a character given as a parameter
  * @types: List of arguments
  * @buffer: Buffer array that handles a print
